@@ -33,7 +33,7 @@
 
 <table width="100%">
   <tr>
-    <td width="33.33%">
+    <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
@@ -41,19 +41,11 @@
         </a>
       </p>
     </td>
-    <td width="33.33%">
+    <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
           <img align="center" src="https://streak-stats.demolab.com?user=Quentiinlvq&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="33.33%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Quentiinlvq&repo=dev-web&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
