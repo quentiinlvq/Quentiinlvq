@@ -33,7 +33,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
@@ -41,7 +41,7 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
@@ -49,9 +49,7 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
@@ -59,16 +57,9 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
+
 
 <!--Contribution Graph-->
 <!--<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
