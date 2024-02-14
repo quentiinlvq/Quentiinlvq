@@ -8,7 +8,7 @@
 - 💁‍♂️ 
 - 🏙 
 - ✍ 
-- 💻 Download my CV for more details about me.
+- 💻 Download my <a href="./cv.pdf" target="_blank">CV</a> for more details about me.
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
