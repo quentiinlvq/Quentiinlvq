@@ -26,7 +26,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Quentiinlvq&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -48,7 +48,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Quentiinlvq&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
