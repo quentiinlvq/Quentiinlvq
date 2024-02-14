@@ -9,7 +9,7 @@
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
-## <h2 align="center">LANGUAGES AND TOOLS</h2> 
+## <h2 align="center">🛠️ LANGUAGES AND TOOLS 🛠️</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=12"  />
 </p>
