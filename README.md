@@ -3,11 +3,8 @@
 <!--Start Intro-->               
 <p align="left">I am a student in IT interested in all technologies. Currently, I love cybersecurity and am training myself on TryHackMe.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ 
-- 🏙 
-- ✍ 
+- 🌱 Every day offers a chance to learn, and I'm taking full advantage by exploring diverse subjects.
+- 💁‍♂️ Here to grow and thrive.
 - 💻 Download my <a href="./CV.pdf" target="_blank">CV</a> for more details about me.
 <!--End Intro-->
 
