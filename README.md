@@ -17,7 +17,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nodejs,express,postgres,mongo,git,vscode,docker,linux, arduino, &perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=10"  />
 </p>
 <br />
 
