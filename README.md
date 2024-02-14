@@ -29,7 +29,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 GGITHUB STATS 📊</h2>
+## <h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <table width="100%">
   <tr>
