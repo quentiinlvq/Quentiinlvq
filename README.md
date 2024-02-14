@@ -1,10 +1,5 @@
 ### Hi, I'm Quentin 👋
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="./avatar.png">
-</div>
-
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
