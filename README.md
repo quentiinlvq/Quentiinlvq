@@ -8,7 +8,7 @@
 - 💁‍♂️ 
 - 🏙 
 - ✍ 
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Download my CV for more details about me.
 <!--End Intro-->
 
 ---
