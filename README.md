@@ -23,7 +23,7 @@
 <h2 align="center">🏆 THM CERTIFICATIONS 🏆</h2>
 <p align="center">
   <a href="./Introduction_to_Cyber_Security.png" target="_blank">
-    <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="150" height="auto">
+    <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="200" height="auto">
   </a>
 </p>
 <br />
