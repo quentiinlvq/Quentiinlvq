@@ -69,7 +69,6 @@
     </td>
   </tr>
 </table>
-<br />
 
 <!--Contribution Graph-->
 <!--<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -89,7 +88,6 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=May%20you%20find%20grace%20as%20you%20surrender%20to%20life.%20May%20you%20find%20happiness%2C%20as%20you%20stop%20seeking%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
--->
 <!--Contact Section--> 
 
 ##<h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
