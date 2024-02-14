@@ -12,7 +12,7 @@
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+## <h2 align="center">LANGUAGES AND TOOLS</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=12"  />
 </p>
@@ -20,7 +20,7 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 THM CERTIFICATIONS 🏆</h2>
+## <h2 align="center">🏆 THM CERTIFICATIONS 🏆</h2>
 <p align="center">
   <a href="./Introduction_to_Cyber_Security.png" target="_blank">
     <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="200" height="auto">
@@ -29,7 +29,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 GGITHUB STATS 📊</h2>
 
 <table width="100%">
   <tr>
