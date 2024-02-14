@@ -2,7 +2,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="./avatar.svg">
+  <img align="right" width="40%" src="./avatar.png">
 </div>
 
 <!--Start Intro-->               
