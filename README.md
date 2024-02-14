@@ -1,7 +1,7 @@
 ### Hi, I'm Quentin 👋
 
 
-[<img align="left" alt="LinkedIn Quentin" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn Quentin" width="22px" src="./linkedin.svg" target="blank"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/quentinleveque/
 
