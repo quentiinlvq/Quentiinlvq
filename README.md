@@ -22,11 +22,8 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 THM CERTIFICATIONS 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Quentiinlvq&row=2&column=6&margin-w=20&margin-h=20" alt="THM Trophie">
-    <a href="./Introduction_to_Cyber_Security.png" target="_blank">
-      <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="150" height="auto">
-    </a>
+  <a href="./Introduction_to_Cyber_Security.png" target="_blank">
+    <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="150" height="auto">
   </a>
 </p>
 <br />
