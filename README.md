@@ -11,9 +11,6 @@
 - 💻 Download my CV for more details about me.
 <!--End Intro-->
 
----
-<br />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
