@@ -1,11 +1,9 @@
 ### Hi, I'm Quentin 👋
 
 
-[<a href="https://www.linkedin.com/in/quentinleveque/" target="_blank">
+<a href="https://www.linkedin.com/in/quentinleveque/" target="_blank">
   <img align="left" alt="LinkedIn Quentin" width="22px" src="./linkedin.svg"/>
-</a>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/quentinleveque/
+</a>
 
 <!--
 **quentiinlvq/Quentiinlvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
