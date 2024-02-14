@@ -3,7 +3,7 @@
 
 [<img align="left" alt="LinkedIn Quentin" width="22px" src="./linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin](https://www.linkedin.com/in/quentinleveque/
+[linkedin]: https://www.linkedin.com/in/quentinleveque/
 
 <!--
 **quentiinlvq/Quentiinlvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
