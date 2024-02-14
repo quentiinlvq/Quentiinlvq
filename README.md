@@ -1,14 +1,13 @@
 ### Hi, I'm Quentin 👋
 
 <!--Start Intro-->               
-<p align="left">I am a student </p>
+<p align="left">I am a student in IT interested in all technologies. Currently, I love cybersecurity and am training myself on TryHackMe.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
+- 💁‍♂️ 
+- 🏙 
+- ✍ 
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 <!--End Intro-->
 
