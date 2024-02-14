@@ -22,6 +22,10 @@
   <a href="./Introduction_to_Cyber_Security.png" target="_blank">
     <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="200" height="auto">
   </a>
+
+  <a href="./Pre-Security.png" target="_blank">
+    <img src="./Pre_Security.png" alt="THM Trophie" width="200" height="auto">
+  </a>
 </p>
 <br />
 
