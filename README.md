@@ -32,10 +32,9 @@
 <!--THM stats Table--> 
 ## <h2 align="center">📊 TRY HACK ME STATS 📊</h2>
 
-  <h3 align="center"><strong>THM Sᴛᴀᴛs</strong></h3>
-  <p align="center">
-    <script src="https://tryhackme.com/badge/1894352"></script>
-  </p>
+<p align="center">
+  <script src="https://tryhackme.com/badge/1894352"></script>
+</p>
 
 <!--Github stats Table--> 
 ## <h2 align="center">📊 GITHUB STATS 📊</h2>
