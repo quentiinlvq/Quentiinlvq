@@ -33,8 +33,9 @@
 ## <h2 align="center">📊 TRY HACK ME STATS 📊</h2>
 
 <p align="center">
-  <script src="https://tryhackme.com/badge/1894352"></script>
+  <img src="https://tryhackme.com/badge/1894352" alt="Try Hack Me Badge">
 </p>
+
 
 <!--Github stats Table--> 
 ## <h2 align="center">📊 GITHUB STATS 📊</h2>
