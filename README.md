@@ -33,7 +33,7 @@
 ## <h2 align="center">📊 TRY HACK ME STATS 📊</h2>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/quentiinlvq.png" alt="TryHackMe" width="200">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/quentiinlvq.png" alt="TryHackMe" width="400">
 </p>
 
 
