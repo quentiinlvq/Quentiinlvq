@@ -29,6 +29,16 @@
 </p>
 <br />
 
+<!--THM stats Table--> 
+## <h2 align="center">📊 TRY HACK ME STATS 📊</h2>
+
+<table width="100%">
+  <h3 align="center"><strong>THM Sᴛᴀᴛs</strong></h3>
+  <p align="center">
+    <script src="https://tryhackme.com/badge/1894352"></script>
+  </p>
+</table>
+
 <!--Github stats Table--> 
 ## <h2 align="center">📊 GITHUB STATS 📊</h2>
 
@@ -37,7 +47,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/Quentiinlvq">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quentiinlvq&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -45,7 +55,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/Quentiinlvq">
           <img align="center" src="https://streak-stats.demolab.com?user=Quentiinlvq&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -80,7 +90,7 @@
 </a>
   
 <a href="mailto:qleveque21@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=qleveque21@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 <!--
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
