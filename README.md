@@ -1,47 +1,92 @@
 ### Hi, I'm Quentin 👋
 
-<!--Start Intro-->               
-<p align="left">I am a student in IT interested in all technologies. Currently, I love cybersecurity and am training myself on TryHackMe.</p>
+---
 
-- 🌱 Every day offers a chance to learn, and I'm taking full advantage by exploring diverse subjects.
-- 💁‍♂️ Here to grow and thrive.
-- 💻 Download my <a href="./CV.pdf" target="_blank">CV</a> for more details about me.
-<!--End Intro-->
+## <h2 align="center">👨‍💻 ABOUT ME 👨‍💻</h2>
 
-<!--Languages and Tools Section-->       
-## <h2 align="center">🛠️ LANGUAGES AND TOOLS 🛠️</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=12"  />
-</p>
-<br />
+💡 **Cybersecurity apprentice, full-stack developer, and freelancer**, passionate about both **offensive and defensive security**, as well as **secure development**.
 
-<!--THM stats Table
-## <h2 align="center">📊 TRY HACK ME STATS 📊</h2>
+### 🛡️ **Cybersecurity & Pentesting**
+- 🔥 **Red Teaming & Pentesting** → Vulnerability exploitation (CVE), penetration testing, CTF challenges
+- 🔍 **Blue Teaming & Security Audits** → Intrusion detection, security hardening, incident response
+- 🏹 **Purple Teaming** → Bridging offensive & defensive security for enhanced cyber resilience
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/quentiinlvq.png" alt="TryHackMe" width="400">
-</p>
+### 🚀 **DevSecOps & Automation**
+- ⚙️ **CI/CD Security** → Integrating security into DevOps workflows
+- 🐳 **Containerization** → Docker & Kubernetes for secure and scalable deployments
+
+### 💻 **Full-Stack Development & Secure Coding**
+- 🛠️ **Web Development** → Building secure applications with best practices
+- 🔐 **Security Implementation** → Protecting against common threats (OWASP Top 10)
+
+### 🎯 **Continuous Learning & Freelance Work**
+- 💻 **Hands-on training** → Kali Linux, cybersecurity labs, TryHackMe & HackTheBox
+- 💼 **Freelancer** → Open to all opportunities in cybersecurity & development
+
+---
+
+## <h2 align="center">🏆 CERTIFICATIONS 🏆</h2>
+
+📜 **Certifications obtenues**  
+✔️ [**Junior Cybersecurity Analyst Career Path**](https://www.credly.com/badges/296007f0-fd6d-4498-b1a7-c8425925bc6a/public_url) - Cisco Netacad | Credly  
+✔️ [**Introduction to IoT**](https://www.credly.com/badges/45e7d951-1742-4e56-950c-5c911f00233c/public_url) - Cisco Netacad | Credly  
+✔️ [**Introduction to Cybersecurity**](https://www.credly.com/badges/6924cd46-a971-461c-99cd-8b1d7f1d892e/public_url) - Cisco Netacad | Credly  
+✔️ [**Pre-Security**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LCIUEZ1SBH.pdf) - TryHackMe  
+✔️ [**Introduction to Cyber Security**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QGNH8FEBHC.pdf) - TryHackMe
+
+
+---
+<!--
+## <h2 align="center">🚀 PROJETS GITHUB 🚀</h2>
+
+💡 **Meilleurs projets open-source et contributions**
+
+📂 **Projets récents :**  
+🔗 [**CyberSec Toolkit**](https://github.com/TON-NOM-UTILISATEUR/cybersec-toolkit) - Outil automatisé pour tester la sécurité des API  
+🔗 [**Malware Analysis Lab**](https://github.com/TON-NOM-UTILISATEUR/malware-lab) - Environnement de test pour l'analyse de logiciels malveillants  
+🔗 [**CTF Write-ups**](https://github.com/TON-NOM-UTILISATEUR/CTF-writeups) - Solutions détaillées des CTFs
+
+👀 [**Voir tous mes projets →**](https://github.com/TON-NOM-UTILISATEUR?tab=repositories)
 -->
-<!--Trophies Section-->   
-## <h2 align="center">🏆 THM CERTIFICATIONS 🏆</h2>
+
+## <h2 align="center">📜 ARTICLES & PUBLICATIONS 📜</h2>
+
+📌 **Découvrez mes articles sur la cybersécurité et la belligérance !**
+
+🔗 **Derniers articles :**
+- [🎯 Opération “Iron Shadow” - Sabotage cybernétique du système de défense aérienne de Thalès](https://www.linkedin.com/pulse/op%25C3%25A9ration-iron-shadow-sabotage-cybern%25C3%25A9tique-du-syst%25C3%25A8me-l%25C3%25A9v%25C3%25AAque-pc8ne/?trackingId=SZaoLQGMQ9OOOmYwzi9RaA%3D%3D)
+
+🔎 [**Voir tous mes articles →**](https://www.linkedin.com/in/quentinleveque/recent-activity/articles/)
+
+---
+
+## <h2 align="center">🎯 PARTICIPATIONS AUX CTFs 🎯</h2>
+
+🛡️ **Challenges et compétitions de cybersécurité !**
+
+🏆 **Expériences CTF récentes :**  
+
+🥇 **DaVinciCode ESILV CTF**  
+🏅 **Root-Me Challenges complétés : 70+** - 1130 points  
+🥈 **Shutlock CTF**  
+🥈 **404 CTF**   
+
+---
+
+## <h2 align="center">🛠️ LANGUAGES AND TOOLS 🛠️</h2>
+
 <p align="center">
-  <a href="./Introduction_to_Cyber_Security.png" target="_blank">
-    <img src="./Introduction_to_Cyber_Security.png" alt="THM Trophie" width="300" height="auto">
-  </a>
-
-  <a href="./Pre-Security.png" target="_blank">
-    <img src="./Pre_Security.png" alt="THM Trophie" width="300" height="auto">
-  </a>
+<img width="500px" src="https://skillicons.dev/icons?i=java,spring,angular,kubernetes,bun,elysia,idea,py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=12"  />
 </p>
-<br />
 
-<!--Github stats Table--> 
+---
+
 ## <h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Quentiinlvq">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quentiinlvq&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -49,7 +94,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Quentiinlvq">
           <img align="center" src="https://streak-stats.demolab.com?user=Quentiinlvq&theme=nightowl" alt="Streak Stats" />
@@ -59,49 +104,23 @@
   </tr>
 </table>
 
-
-<!--Contribution Graph-->
-<!--<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quentiinlvq&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
--->
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<!--
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<!--
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=May%20you%20find%20grace%20as%20you%20surrender%20to%20life.%20May%20you%20find%20happiness%2C%20as%20you%20stop%20seeking%20it.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-<!--Contact Section--> 
+---
 
 ## <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
+
 <div align="center">
- <a href="https://www.linkedin.com/in/quentinleveque/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/quentinleveque/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
-  
+
 <a href="mailto:qleveque21@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=qleveque21@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<!--
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-<!--
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
--->
 </div>
-<br/>
+
+---
 
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
