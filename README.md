@@ -1,6 +1,4 @@
-### Hi, I'm Quentin 👋
-
----
+# Hi, I'm Quentin 👋
 
 ## <h2 align="center">👨‍💻 ABOUT ME 👨‍💻</h2>
 
@@ -23,8 +21,6 @@
 - 💻 **Hands-on training** → Kali Linux, cybersecurity labs, TryHackMe & HackTheBox
 - 💼 **Freelancer** → Open to all opportunities in cybersecurity & development
 
----
-
 ## <h2 align="center">🏆 CERTIFICATIONS 🏆</h2>
 
 📜 **Certifications obtenues**  
@@ -34,8 +30,6 @@
 ✔️ [**Pre-Security**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LCIUEZ1SBH.pdf) - TryHackMe  
 ✔️ [**Introduction to Cyber Security**](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QGNH8FEBHC.pdf) - TryHackMe
 
-
----
 <!--
 ## <h2 align="center">🚀 PROJETS GITHUB 🚀</h2>
 
@@ -58,8 +52,6 @@
 
 🔎 [**Voir tous mes articles →**](https://www.linkedin.com/in/quentinleveque/recent-activity/articles/)
 
----
-
 ## <h2 align="center">🎯 PARTICIPATIONS AUX CTFs 🎯</h2>
 
 🛡️ **Challenges et compétitions de cybersécurité !**
@@ -71,15 +63,11 @@
 🥈 **Shutlock CTF**  
 🥈 **404 CTF**   
 
----
-
 ## <h2 align="center">🛠️ LANGUAGES AND TOOLS 🛠️</h2>
 
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=java,spring,angular,kubernetes,bun,elysia,idea,py,ruby,c,html,css,figma,js,ts,react,bootstrap,nodejs,express,postgres,mongodb,mysql,git,github,vscode,docker,linux,powershell,raspberrypi,arduino,cpp&perline=12"  />
 </p>
-
----
 
 ## <h2 align="center">📊 GITHUB STATS 📊</h2>
 
@@ -104,8 +92,6 @@
   </tr>
 </table>
 
----
-
 ## <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
 
 <div align="center">
@@ -117,8 +103,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </div>
-
----
 
 <!--Footer--> 
 <p align="center">
